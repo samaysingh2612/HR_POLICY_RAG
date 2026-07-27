@@ -19,7 +19,7 @@ ipykernel
 
 #app
 streamlit
-
+pypdf
 
 
 
