@@ -1,0 +1,594 @@
+==========================================================
+ABC TECHNOLOGIES PRIVATE LIMITED
+HUMAN RESOURCES POLICY MANUAL
+Version: 1.0
+Effective Date: January 1, 2026
+==========================================================
+
+TABLE OF CONTENTS
+
+1. Introduction
+2. Company Vision and Mission
+3. Equal Employment Opportunity
+4. Recruitment and Hiring
+5. Employee Classification
+6. Working Hours
+7. Attendance Policy
+8. Remote Work Policy
+9. Leave Policy
+10. Compensation and Benefits
+11. Performance Management
+12. Code of Conduct
+13. Dress Code
+14. Workplace Behavior
+15. Anti-Harassment Policy
+16. Diversity and Inclusion
+17. Information Security
+18. Data Privacy
+19. Acceptable Use of Company Assets
+20. Training and Development
+21. Travel Policy
+22. Expense Reimbursement
+23. Health and Safety
+24. Grievance Procedure
+25. Disciplinary Action
+26. Resignation Policy
+27. Termination Policy
+28. Exit Process
+29. Confidentiality Agreement
+30. Frequently Asked Questions
+
+==========================================================
+1. INTRODUCTION
+==========================================================
+
+Welcome to ABC Technologies Private Limited.
+
+This handbook outlines the company's policies, procedures, and expectations. Every employee is expected to understand and comply with these policies.
+
+These policies apply to all permanent, probationary, contract, intern, and temporary employees unless stated otherwise.
+
+The company reserves the right to update policies whenever necessary.
+
+==========================================================
+2. COMPANY VISION
+==========================================================
+
+Vision:
+To build innovative technology solutions that improve businesses worldwide.
+
+Mission:
+• Deliver high-quality software.
+• Foster innovation.
+• Respect every employee.
+• Maintain ethical business practices.
+• Encourage continuous learning.
+
+Core Values:
+• Integrity
+• Innovation
+• Accountability
+• Respect
+• Collaboration
+• Customer First
+
+==========================================================
+3. EQUAL EMPLOYMENT OPPORTUNITY
+==========================================================
+
+ABC Technologies provides equal employment opportunities to everyone regardless of:
+
+• Gender
+• Religion
+• Race
+• Age
+• Disability
+• Nationality
+• Marital Status
+• Sexual Orientation
+
+Employment decisions are based solely on qualifications, experience, and performance.
+
+Discrimination of any kind is prohibited.
+
+==========================================================
+4. RECRUITMENT POLICY
+==========================================================
+
+The recruitment process includes:
+
+1. Resume Screening
+2. Technical Assessment
+3. HR Interview
+4. Manager Interview
+5. Background Verification
+6. Offer Letter
+7. Joining Formalities
+
+Candidates must provide genuine educational certificates.
+
+False information may lead to offer cancellation.
+
+==========================================================
+5. EMPLOYEE CLASSIFICATION
+==========================================================
+
+Employees may belong to one of the following categories:
+
+Permanent Employee
+Works full-time after successful completion of probation.
+
+Probation Employee
+Typically serves a probation period of six months.
+
+Intern
+Works for a fixed internship duration.
+
+Contract Employee
+Works under contractual agreements.
+
+Consultant
+Provides specialized services.
+
+==========================================================
+6. WORKING HOURS
+==========================================================
+
+Office Timing:
+Monday to Friday
+
+Working Hours:
+9:30 AM to 6:30 PM
+
+Lunch Break:
+1 hour
+
+Employees must complete 8 working hours daily.
+
+Flexible working hours may be approved by managers.
+
+==========================================================
+7. ATTENDANCE POLICY
+==========================================================
+
+Employees should mark attendance using the official attendance system.
+
+Late arrival exceeding 30 minutes more than three times in a month may result in disciplinary action.
+
+Unauthorized absence may result in salary deduction.
+
+Managers should be informed before taking emergency leave.
+
+==========================================================
+8. REMOTE WORK POLICY
+==========================================================
+
+Employees working remotely must:
+
+Maintain internet connectivity.
+
+Be available during office hours.
+
+Attend meetings.
+
+Protect confidential company information.
+
+Use company-approved devices whenever possible.
+
+==========================================================
+9. LEAVE POLICY
+==========================================================
+
+Annual Leave:
+18 days
+
+Sick Leave:
+12 days
+
+Casual Leave:
+8 days
+
+Maternity Leave:
+26 weeks
+
+Paternity Leave:
+10 days
+
+Bereavement Leave:
+5 days
+
+Leave approval depends upon business requirements.
+
+Unapproved leave may be considered Leave Without Pay.
+
+==========================================================
+10. COMPENSATION
+==========================================================
+
+Salary is credited on the last working day of every month.
+
+Employees receive:
+
+Basic Salary
+
+House Rent Allowance
+
+Medical Allowance
+
+Provident Fund
+
+Bonus (where applicable)
+
+Annual appraisal depends on:
+
+Performance
+
+Business growth
+
+Budget
+
+Attendance
+
+==========================================================
+11. PERFORMANCE MANAGEMENT
+==========================================================
+
+Performance reviews are conducted twice every year.
+
+Evaluation includes:
+
+Technical Skills
+
+Communication
+
+Teamwork
+
+Leadership
+
+Innovation
+
+Problem Solving
+
+Quality of Work
+
+Attendance
+
+Performance ratings:
+
+Outstanding
+
+Excellent
+
+Good
+
+Needs Improvement
+
+Unsatisfactory
+
+==========================================================
+12. CODE OF CONDUCT
+==========================================================
+
+Employees must:
+
+Behave professionally.
+
+Respect colleagues.
+
+Avoid abusive language.
+
+Protect company property.
+
+Maintain confidentiality.
+
+Follow management instructions.
+
+Avoid conflicts of interest.
+
+==========================================================
+13. DRESS CODE
+==========================================================
+
+Employees should wear business casual attire.
+
+Fridays may allow smart casual clothing.
+
+Clothing containing offensive content is prohibited.
+
+==========================================================
+14. WORKPLACE BEHAVIOR
+==========================================================
+
+Employees should:
+
+Treat everyone respectfully.
+
+Avoid gossip.
+
+Avoid workplace bullying.
+
+Maintain professionalism.
+
+Support teamwork.
+
+==========================================================
+15. ANTI-HARASSMENT POLICY
+==========================================================
+
+Harassment includes:
+
+Verbal abuse
+
+Physical harassment
+
+Sexual harassment
+
+Offensive jokes
+
+Threats
+
+Discrimination
+
+Any employee may report harassment directly to HR.
+
+All complaints are investigated confidentially.
+
+Retaliation against complainants is prohibited.
+
+==========================================================
+16. DIVERSITY AND INCLUSION
+==========================================================
+
+ABC Technologies values diversity.
+
+The company promotes equal opportunities regardless of background.
+
+Inclusive hiring practices are encouraged.
+
+==========================================================
+17. INFORMATION SECURITY
+==========================================================
+
+Employees must:
+
+Use strong passwords.
+
+Never share passwords.
+
+Enable multi-factor authentication.
+
+Lock computers when away.
+
+Avoid installing unauthorized software.
+
+Report phishing emails immediately.
+
+==========================================================
+18. DATA PRIVACY
+==========================================================
+
+Company data must remain confidential.
+
+Personal customer information shall never be shared externally.
+
+Employees must comply with applicable privacy laws.
+
+==========================================================
+19. ACCEPTABLE USE OF COMPANY ASSETS
+==========================================================
+
+Company laptops should only be used for business purposes.
+
+Employees should avoid:
+
+Pirated software
+
+Illegal downloads
+
+Unauthorized USB devices
+
+Company email should not be used for personal business.
+
+==========================================================
+20. TRAINING
+==========================================================
+
+The company encourages continuous learning.
+
+Employees may attend:
+
+Technical workshops
+
+Leadership training
+
+Cybersecurity awareness
+
+Communication training
+
+Certification programs
+
+==========================================================
+21. TRAVEL POLICY
+==========================================================
+
+Business travel requires manager approval.
+
+Employees should use economical travel options.
+
+Bills must be submitted within 10 working days.
+
+==========================================================
+22. EXPENSE REIMBURSEMENT
+==========================================================
+
+Eligible expenses include:
+
+Travel
+
+Hotel
+
+Meals
+
+Taxi
+
+Conference registration
+
+Employees must attach valid receipts.
+
+==========================================================
+23. HEALTH AND SAFETY
+==========================================================
+
+Employees should:
+
+Follow safety guidelines.
+
+Report accidents immediately.
+
+Participate in emergency drills.
+
+Maintain workplace cleanliness.
+
+==========================================================
+24. GRIEVANCE PROCEDURE
+==========================================================
+
+Employees may report concerns related to:
+
+Manager behavior
+
+Harassment
+
+Salary
+
+Leave
+
+Workplace conflicts
+
+Complaints should first be discussed with HR.
+
+==========================================================
+25. DISCIPLINARY ACTION
+==========================================================
+
+Disciplinary actions include:
+
+Verbal Warning
+
+Written Warning
+
+Suspension
+
+Termination
+
+Serious misconduct may result in immediate termination.
+
+==========================================================
+26. RESIGNATION POLICY
+==========================================================
+
+Employees should submit written resignation.
+
+Notice Period:
+
+Intern: 15 days
+
+Probation: 30 days
+
+Permanent Employee: 60 days
+
+Managers may waive notice period.
+
+==========================================================
+27. TERMINATION POLICY
+==========================================================
+
+Employment may end due to:
+
+Poor Performance
+
+Policy Violation
+
+Fraud
+
+Misconduct
+
+Business Restructuring
+
+Company Property Theft
+
+==========================================================
+28. EXIT PROCESS
+==========================================================
+
+Employees must:
+
+Return laptop
+
+Return ID card
+
+Return access cards
+
+Submit expense claims
+
+Complete exit interview
+
+Receive experience letter after clearance.
+
+==========================================================
+29. CONFIDENTIALITY
+==========================================================
+
+Employees must never disclose:
+
+Customer information
+
+Financial reports
+
+Business strategy
+
+Source code
+
+Passwords
+
+Internal documents
+
+Confidentiality obligations continue after employment ends.
+
+==========================================================
+30. FREQUENTLY ASKED QUESTIONS
+==========================================================
+
+Q: What are office timings?
+A: 9:30 AM to 6:30 PM.
+
+Q: How many casual leaves are allowed?
+A: 8 days per year.
+
+Q: How many sick leaves are available?
+A: 12 days per year.
+
+Q: When is salary credited?
+A: Last working day of every month.
+
+Q: Who approves leave?
+A: Reporting Manager.
+
+Q: Can I work remotely?
+A: Yes, subject to manager approval.
+
+Q: Who should I contact for HR issues?
+A: Human Resources Department.
+
+Q: What happens if I lose my ID card?
+A: Report immediately to HR and Administration.
+
+Q: Can I install software on my office laptop?
+A: Only authorized software approved by IT.
+
+Q: Is harassment tolerated?
+A: No. The company follows a zero-tolerance policy.
+
+==========================================================
+END OF HR POLICY DOCUMENT
+==========================================================
