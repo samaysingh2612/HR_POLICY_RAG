@@ -45,7 +45,7 @@ def build_hr_agent(uploaded_file, groq_key: str, jina_key: str):
 
         # 5. Initialize LLM and Agent
         llm = ChatGroq(
-            model="llama-3.1-8b-instant",
+            model="openai/gpt-oss-120b",
             temperature=0,
             groq_api_key=groq_key
         )
